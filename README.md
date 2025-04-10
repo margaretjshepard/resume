@@ -1,6 +1,6 @@
 # Margaret's Resume
 📍 Location: Williamsburg, Virginia
-🎓 MS Business Analytics, c.o. May 2025  
+ 🎓 MS Business Analytics, c.o. May 2025  
 📊 Data | Analytics | Strategy  
 
 Self-motivated MSBA student specializing in data analytics, machine learning, and digital marketing, with hands-on experience 
