@@ -1,11 +1,12 @@
 # Margaret's Resume
 
-📍 Location: Open to Relocation  
-🎓 MS Business Analytics, May 2025  
+📍 Location: Williamsburg, Virginia
+🎓 MS Business Analytics, c.o. May 2025  
 📊 Data | Analytics | Strategy  
 
-This repository contains the most recent version of my resume.  
-I’m currently seeking opportunities in business analytics, data strategy, or operations.
+Self-motivated MSBA student specializing in data analytics, machine learning, and digital marketing, with hands-on experience 
+in Python, SQL, Tableau, and R. Passionate about transforming complex data into insights that drive business decisions. A fast 
+learner with an analytical mindset and the discipline of a competitive runner, excelling in high-paced environments. 
 
 ## 📄 Resume
 [Download Resume (PDF)](./Margaret_Resume_2025.pdf)
