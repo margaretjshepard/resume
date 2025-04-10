@@ -1,4 +1,4 @@
-# Margaret's Resume
+# Margaret Joan Shepard
 🎓 MS Business Analytics, c.o. May 2025  
 📊 Data | Analytics | Strategy  
 
