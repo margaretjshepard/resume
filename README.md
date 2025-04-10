@@ -1,7 +1,5 @@
 # Margaret's Resume
-
 📍 Location: Williamsburg, Virginia
-
 🎓 MS Business Analytics, c.o. May 2025  
 📊 Data | Analytics | Strategy  
 
